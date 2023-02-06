@@ -66,7 +66,27 @@ SECCIÓN 13–3 Inductores en serie y en paralelo
 
 SECCIÓN 13–4 Inductores en circuitos de cd
 
+![image](https://user-images.githubusercontent.com/117920423/217066246-7a2ff363-f6d2-4566-8f5f-a55a621be1ca.png)
 
+![image](https://user-images.githubusercontent.com/117920423/217066383-5f46665c-a189-465c-9e0b-352c9b04a5bf.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066430-bdb24a4c-ad89-4d24-b630-ac25e53a8040.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066475-caee79e4-d4c3-4cae-ab03-99d9b6f7c4fb.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066541-1a8416db-7897-4be1-b8cd-910dc8dfef0b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066686-f3aead1c-d6ef-400d-8cda-825211d94b35.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066724-fc507b4f-fb94-42df-a9a3-16ec43e2c6cf.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066787-154dfdc9-9fd5-4784-bf6a-6e5fa55c4ce2.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217066834-ffc4d0b6-900c-4cf3-b2fd-669a06164df2.png)
+
+a) Es positiva
+
+b) 1.22 mA
 
 
 
