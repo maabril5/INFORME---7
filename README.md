@@ -114,6 +114,99 @@ SECCIÓN 13–5 Inductores en circuitos de ca
 
 ![image](https://user-images.githubusercontent.com/117920423/217068144-a68d07db-98c7-4343-ace5-123197401b65.png)
 
+CAPÍTULO 14.
+
+SECCIÓN 14–1 Inductancia mutua
+
+![image](https://user-images.githubusercontent.com/117920423/217069018-d7002f54-66b0-4cc9-812d-bed76cc61fcc.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069079-9497fbbe-deea-40ef-bd16-53b5fb00df7f.png)
+
+SECCIÓN 14–2 El transformador básico
+
+![image](https://user-images.githubusercontent.com/117920423/217069121-1f10044e-5f8c-49fa-a8c2-e2fda9654dd8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069151-490df2d0-51f7-42ce-a40e-836fcfbe42ef.png)
+
+SECCIÓN 14–3 Transformadores elevadores y reductores
+
+![image](https://user-images.githubusercontent.com/117920423/217069292-7b94a4de-e21e-4bed-b79c-1e24a880440e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069325-ec04bdf4-0057-4521-af36-b31b5130baa9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069357-cfb85e25-f2ea-40a7-bf73-a152b08b3b21.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069400-6d7218f4-d569-42fa-8b04-23c62556fa5a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069443-9b702085-bb37-43d5-9e03-6497df9f05f2.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069481-b40ab369-c02c-4656-a34f-254a1cf22629.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069653-9f5088b8-8d5b-445f-b84a-37ef239e61ef.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069719-3fe2b469-0fc1-48a5-841f-8eca01287c27.png)
+
+SECCIÓN 14–4 Carga del devanado secundario
+
+![image](https://user-images.githubusercontent.com/117920423/217069819-0ac56202-346d-4598-9ab8-138e1bd229b8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217069898-25b15e47-d0ba-4279-9401-7cc03bee026e.png)
+
+SECCIÓN 14–5 Carga reflejada
+
+![image](https://user-images.githubusercontent.com/117920423/217069958-f847dbc7-4ff9-4f07-affe-16e372b072c8.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070024-b8c0b6c7-ba42-4237-bfe9-3839d8f9a7b5.png)
+
+SECCIÓN 14–6 Igualación de impedancia
+
+![image](https://user-images.githubusercontent.com/117920423/217070106-dd20a1c2-0e27-489d-ab7f-274a4597f77d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070130-04edfcfa-5ff1-46ae-9925-88e32377d29f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070175-014225fd-7d01-4b05-9615-32aafecd042e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070217-a0d5506b-b5df-4144-bfd6-91dc9f18ca52.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070346-88dff227-3d91-4019-8511-decfe51df24a.png)
+
+SECCIÓN 14–7 Características de un transformador no ideal
+
+![image](https://user-images.githubusercontent.com/117920423/217070438-58a38898-f6f6-4c2b-a662-81ae517bc625.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070523-243ed653-7610-4f3d-b98b-7db88ff63746.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070589-5beda0b4-e728-4e16-8a76-e3ef0164d471.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070662-b3245f49-e7c3-43a5-b872-d0cbd54f817e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070687-6b2542b9-358a-47ea-835d-176a6c768121.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217070761-bca1d0a9-f02d-4b33-a47d-6cc910abe6b4.png)
+
+SECCIÓN 14–8 Transformadores con tomas y devanados múltiples
+
+![image](https://user-images.githubusercontent.com/117920423/217070945-7f326143-aed6-45cb-bfac-f7de1fff22c2.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217071026-bfddfa6d-3f16-4b20-810d-7f1854aa266c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217071063-9f879035-155e-4f39-99d1-93ef386fef2c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217071129-3b84214e-9d08-4274-abc8-8d8bce48d1b2.png)
+
+SECCIÓN 14–9 Localización de fallas
+
+![image](https://user-images.githubusercontent.com/117920423/217071258-25e8adca-3bc6-4322-82f2-03d8afdcf838.png)
+
+Cortando el primario, se extrae una potencia sumamente fuerte que puede llegar a quemar la fuente y el transformador, siempre y cuando el primario esté fusionado.
+
+![image](https://user-images.githubusercontent.com/117920423/217071677-2224fc09-81f0-4f8f-9f85-cf4eb7a9a3c1.png)
+
+Algunos de los devanados secundarios podrían estar en cortocircuito, o el voltaje primario es inferior al previsto.
+
+
+
+
 
 
 
