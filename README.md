@@ -80,13 +80,39 @@ SECCIÓN 13–4 Inductores en circuitos de cd
 
 ![image](https://user-images.githubusercontent.com/117920423/217066724-fc507b4f-fb94-42df-a9a3-16ec43e2c6cf.png)
 
-![image](https://user-images.githubusercontent.com/117920423/217066787-154dfdc9-9fd5-4784-bf6a-6e5fa55c4ce2.png)
+![image](https://user-images.githubusercontent.com/117920423/217067277-cc5e7d31-8dc7-4e9e-900e-9a17f18fa081.png)
 
 ![image](https://user-images.githubusercontent.com/117920423/217066834-ffc4d0b6-900c-4cf3-b2fd-669a06164df2.png)
 
 a) Es positiva
 
 b) 1.22 mA
+
+![image](https://user-images.githubusercontent.com/117920423/217067327-5a13e385-dbfe-44a0-ab57-ce14c2175d09.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067360-827f2bab-b0c7-4d44-a8ef-803906a8b020.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067471-01032516-8bda-4f30-8df2-a18a2739903a.png)
+
+SECCIÓN 13–5 Inductores en circuitos de ca
+
+![image](https://user-images.githubusercontent.com/117920423/217067589-d414031c-1015-4896-be35-65917f4f342e.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067685-6fc3d3d1-d2b0-4d47-abd0-7d0075c5ec8a.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067802-72ac683e-56f6-4c2f-a762-a462b412d070.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067876-0149398f-ecad-4fc1-a254-385ead821f8b.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067905-373d467d-4507-4aab-80f3-184b1895578c.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067971-0f3cf645-5224-45b3-8a2a-f27a75f8e0c0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217068013-9c912670-4ea0-4334-b3bf-a7e8d046071d.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217067971-0f3cf645-5224-45b3-8a2a-f27a75f8e0c0.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217068144-a68d07db-98c7-4343-ace5-123197401b65.png)
 
 
 
