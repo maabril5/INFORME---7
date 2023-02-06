@@ -205,6 +205,27 @@ Cortando el primario, se extrae una potencia sumamente fuerte que puede llegar a
 Algunos de los devanados secundarios podrían estar en cortocircuito, o el voltaje primario es inferior al previsto.
 
 
+4. CONCLUSIONES.
+
+- Se compredió de mejor manera cómo influye la frecuencia en los cambios de sus valores, entendiendo el uso y lectura de ondas seno.
+
+- Saber las principales características de un transformador no ideal cómo: resistencia de devanado, pérdidas en el núcleo, capacitancia de devanado y por último, dispersión de flujo magnético.
+
+- Los inductores principalmente se dividen en inductores variables y fijos, no obstante, esta clasificación se considera ambigua, por lo que ahora si clasifican según su núcleo.
+
+- En el video presentado pudimos desarrollar conocimientos de los aprendido con nuevos temas a exponer y ejercicios.
+
+5. VIDEO.
+
+
+
+6. BIBLIOGRAFÍA.
+
+- Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
+- Bismarks, J. L. (2020, abril 16). Inductor. Electrónica Online. https://electronicaonline.net/componentes-electronicos/inductor/
+
+- Tecsa. (2019, octubre 31). ¿Qué es un transformador eléctrico y cómo funciona? Tecsa. https://www.tecsaqro.com.mx/blog/que-es-un-transformador-electrico/
 
 
 
