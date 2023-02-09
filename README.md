@@ -16,9 +16,19 @@ Haber entendido los conceptos presentados en el capítulo 13 y 14 referente a in
 
 2. MARCO TEÓRICO
 
+![image](https://user-images.githubusercontent.com/117920423/217723682-f25c3d28-326f-4439-8230-2fed48b94715.png)
 
+![image](https://user-images.githubusercontent.com/117920423/217723752-fb46e8cb-f5c4-4455-ae4f-75ae94ec1e39.png)
 
+![image](https://user-images.githubusercontent.com/117920423/217723814-149260ee-c9a8-4a3c-a0b3-afa96a9feec5.png)
 
+![image](https://user-images.githubusercontent.com/117920423/217723880-0d404eeb-cdf4-445c-90b0-fa1dc8060d82.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217723913-3941d79a-eb18-4b96-93f0-b68aee98954f.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217723951-f4d07922-0217-4fca-8c0c-79cd0bd0e2a9.png)
+
+![image](https://user-images.githubusercontent.com/117920423/217723980-f4de5635-9b39-4d71-96f4-56c1302357a0.png)
 
 3. EJERCICIOS DE APRENDIZAJE.
 
