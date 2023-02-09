@@ -237,6 +237,8 @@ Algunos de los devanados secundarios podrían estar en cortocircuito, o el volta
 
 - Tecsa. (2019, octubre 31). ¿Qué es un transformador eléctrico y cómo funciona? Tecsa. https://www.tecsaqro.com.mx/blog/que-es-un-transformador-electrico/
 
+- Julián, C. (2021, junio 16). Inductancia - Ejercicios Resueltos. Fisimat | Blog de Física y Matemáticas; Fisimat. https://www.fisimat.com.mx/inductancia-ejercicios-resueltos/
+
 
 
 
