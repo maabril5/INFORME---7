@@ -227,7 +227,7 @@ Algunos de los devanados secundarios podrían estar en cortocircuito, o el volta
 
 5. VIDEO.
 
-
+https://youtu.be/erLRYwNY4TA
 
 6. BIBLIOGRAFÍA.
 
